@@ -11,7 +11,7 @@ class customer{
         name=sc.next();
         System.out.println("Enter account balance=");
         amt=sc.nextFloat();
-        sc.close();
+       
     }
     float diposite(float a){
         amt=amt+a;
